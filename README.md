@@ -10,6 +10,8 @@ Here are some screenshots of my current system on ASUS Laptop with 8GB Ram, Inte
 
 ![Screenshot](https://github.com/Francesco601/dotfiles/blob/main/20230511_11h47m56s_grim.png)
 
+![Screenshot](https://github.com/Francesco601/dotfiles/blob/main/20230528_10h09m40s_grim.png)
+
 The file .bashrc contains some useful Bash functions and automated tasks that I have collected from various places for different purposes.
 
 Hyprland is a tiling window manager designed specifically to work with the Wayland graphical user interface that is gradually replacing X11 in the world of *nix systems.
