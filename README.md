@@ -22,7 +22,11 @@ I have included my config files for the EWW (Elkowar's Wacky Widgets) bar but I 
 
 I have also included configuration files for the Sway window manager though I prefer Hyprland for aesthetics and configurability.
 
-**Excellent information about how to install and configure Hyprland can be found at the [Hyprland Wiki](https://wiki.hyprland.org/)
+**Excellent information about how to install and configure Hyprland can be found at the [Hyprland Wiki](https://wiki.hyprland.org/)**
+
+For Archlinux specifically, see [Archwiki/Hyprland](https://wiki.archlinux.org/title/Hyprland)
+
+
 
 # Software:
 - Arch Linux
