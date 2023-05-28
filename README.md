@@ -1,6 +1,6 @@
 # dotfiles
 
-These are some of a Linux user's legendary ***dotiles***.
+These are some of my ***dotfiles***.
 
 My current system is Archlinux with Hyprland compositor for Wayland.
 
