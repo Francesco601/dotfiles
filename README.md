@@ -19,3 +19,14 @@ The main config files for Hyprland are hyprland.conf and hyprpaper.conf
 I have included my config files for the EWW (Elkowar's Wacky Widgets) bar but I am not currenrly using it as I have not yet learned to configure it.
 
 I have also included configuration files for the Sway window manager though I prefer Hyprland for asetthetics and conigurability.
+
+# Software:
+- Arch Linux
+- Hyprland
+- Azote (wallpaper management)
+- Waybar (clock,widgets, wifi, etc)
+- Fuzzel (applications menu)
+- Firefox
+- nmtui (network manager)
+- XFCE4-ternimal 
+
