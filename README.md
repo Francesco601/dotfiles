@@ -46,13 +46,14 @@ For Archlinux specifically, see [Archwiki/Hyprland](https://wiki.archlinux.org/t
 
 
 
-# Software:
-- Arch Linux
-- Hyprland
-- Azote (wallpaper management)
-- Waybar (clock,widgets, wifi, etc)
-- Fuzzel (applications menu)
-- Firefox
-- nmtui (network manager)
-- XFCE4-ternimal 
-- Thunar 
+# Programs:
+ - <strong> Window Manager/Compositor: </strong> <strong><a href="https://hyprland.org/"> Hyprland </a></strong>
+- <strong> Wallpaper Manager: </strong>  <strong><a href="https://linuxmasterclub.com/azote/"> Azote </a></strong>
+- <strong> Top panel: </strong>  <strong><a href="https://github.com/Alexays/Waybar"> Waybar </a></strong>
+- <strong> Applications Menu:</strong>  <strong><a href="https://codeberg.org/dnkl/fuzzel"> Fuzzel </a></strong>
+- <strong> Terminal: </strong>   <strong><a href="https://docs.xfce.org/apps/terminal/start"> XFCE4 Terninal </a></strong>
+- <strong> Network Manager: </strong>   <strong><a href="https://wiki.archlinux.org/title/NetworkManager"> NMTUI  </a> </strong>
+- <strong> Web Browser: </strong>  <strong><a href="https://www.mozilla.org/en-US/firefox/new/"> Firefox </a></strong>
+- <strong> File Manager: </strong>  <strong><a href="https://docs.xfce.org/xfce/thunar/start"> Thunar </a></strong>
+- <strong> System monitor: </strong>  <strong><a href="https://github.com/aristocratos/btop"> Btop </a> </strong>
+
