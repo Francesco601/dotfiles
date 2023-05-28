@@ -18,7 +18,7 @@ The main config files for Hyprland are hyprland.conf and hyprpaper.conf
 
 I have included my config files for the EWW (Elkowar's Wacky Widgets) bar but I am not currenrly using it as I have not yet learned to configure it.
 
-I have also included configuration files for the Sway window manager though I prefer Hyprland for asetthetics and conigurability.
+I have also included configuration files for the Sway window manager though I prefer Hyprland for aesthetics and configurability.
 
 # Software:
 - Arch Linux
