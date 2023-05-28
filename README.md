@@ -29,4 +29,4 @@ I have also included configuration files for the Sway window manager though I pr
 - Firefox
 - nmtui (network manager)
 - XFCE4-ternimal 
-
+- Thunar 
