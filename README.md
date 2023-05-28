@@ -8,7 +8,7 @@ Here are some screenshots of my current system on ASUS Laptop with 8GB Ram, Inte
 
 ![screenshot](https://github.com/Francesco601/dotfiles/blob/main/20230528_09h14m09s_grim.png)
 
-
+![Screenshot](https://github.com/Francesco601/dotfiles/blob/main/20230511_11h47m56s_grim.png)
 
 The file .bashrc contains some useful Bash functions and automated tasks that I have collected from various places for different purposes.
 
