@@ -1,6 +1,6 @@
 # dotfiles
 
-These are some of my ***dotfiles***.
+These are some of my ***dotfiles***. These are always subject to change and may not even look the same next week, 
 
 My current system is Archlinux with Hyprland compositor for Wayland.
 
