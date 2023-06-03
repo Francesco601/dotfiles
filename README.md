@@ -56,4 +56,4 @@ For Archlinux specifically, see [Archwiki/Hyprland](https://wiki.archlinux.org/t
 - <strong> Web Browser: </strong>  <strong><a href="https://www.mozilla.org/en-US/firefox/new/"> Firefox </a></strong>
 - <strong> File Manager: </strong>  <strong><a href="https://docs.xfce.org/xfce/thunar/start"> Thunar </a></strong>
 - <strong> System monitor: </strong>  <strong><a href="https://github.com/aristocratos/btop"> Btop </a> </strong>
-
+- <strong> Fonts:  </strong>   <strong><a href="https://www.dafont.com/it/chinacat.font"> Chinacat </a></strong>, <strong><a href="https://www.dafont.com/hobbiton-brush-hand.font"> Hobbit in the Hand </a></strong> 
